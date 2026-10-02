@@ -1,0 +1,11 @@
+# Environment helper
+powershell.cmd
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and temp files
+.vscode/
+.idea/
+*.tmp
